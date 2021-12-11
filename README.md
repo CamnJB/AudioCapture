@@ -11,7 +11,7 @@ to increase speed of making anki cards.
 setup:
 1. Install xclip and ffmpeg if you don't have them already
 2. Download the audioCapture.sh script
-3. Change SAVETO="path/to/file" to wherever you want the audio recordings saved 
+3. Change "path/to/file" in SAVETO to wherever you want the audio recordings saved 
 3. Set a hotkey to the script
 
 How I use it:
