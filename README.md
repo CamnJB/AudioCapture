@@ -9,9 +9,10 @@ I'm aiming to add the feature to have file copied to clipboard so it can be past
 to increase speed of making anki cards.
 
 setup:
-1. download and set hotkey for script
-2. you will need xclip for the script to work
-3. change the path of AudioRecordings/$WORD.mp3 to WHEREVER/YOU/WANT/FILES/SAVED/$WORD.mp3
+1. Install xclip and ffmpeg if you don't have them already
+2. Download the audioCapture.sh script
+3. Change SAVETO="path/to/file" to wherever you want the audio recordings saved 
+3. Set a hotkey to the script
 
 How I use it:
 1. Copy word/sentence you want to learn so it goes into the clipboard
